@@ -1,2 +1,2 @@
 # Projeto-Python-DS
-Notebook feito no Colab para as aulas do curso de Python para Data Science da Alura.
+Notebook feito no Colab para as aulas do curso de Python para Data Science da Alura contendo minhas maneiras de resolução.
